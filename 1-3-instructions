@@ -1,0 +1,9 @@
+We forgot the password to login to the site 
+but we know :
+
+  • that consists only of lowercase letters of the English alphabet (a-z) and digits (0-9), 
+  • To have a minimum length of 8 characters and a maximum of 20 characters 
+  • that contains the same number of letters and digits. 
+
+In the C programming language write a program that lists all the relevant password.
+Each password should be appears on its own line.

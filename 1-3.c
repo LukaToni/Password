@@ -27,7 +27,6 @@ int main()
     
     
     
-    
     printf("%d\n", password);
     
     c++;
